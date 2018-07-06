@@ -1,9 +1,20 @@
-## homebrew和homebrew cask的安装
+# 此页是关于mac相关软件的收集及安装
+从win7转macOS系统还是有很多操作不习惯的，尤其是安装软件这块，建立此页，目的是记录使用学习过程中的一些资料，方便后期重复查资料.
+## mac常用软件
+### 常用下载地址
+	http://xclient.info 有很多常用的破解软件，非常全，免费下载
+### 兼容win7类软件
+	* 压缩软件 winrar-->keka
+	* 流程图   Visio-->Omnigraffle 收费，网上有破解版
+	* 办公    office for mac 微软有提供office mac版，网上有破解版
+	* svn工具 Cornerstone 目前用到的最方便的
+## homebrew及cask
 ### 参考
   * [参考安装方法](https://www.cnblogs.com/51fx/p/7004429.html)
   * [homebrew和cask的一些介绍](https://blog.csdn.net/yangyangzhang1990/article/details/51578565)
+  
 ### 常用命令
-  ```
+```
   安装软件：brew install 软件名，例：brew install wget
   搜索软件：brew search 软件名，例：brew search wget
   卸载软件：brew uninstall 软件名，例：brew uninstall wget
@@ -15,17 +26,12 @@
   显示安装的服务：brew services list
   安装服务启动、停止、重启：brew services start/stop/restart serverName
 ```
+
 ### 其他
-  * 可视化homebrew安装工具
-    ``` 
-    	brew cask install cakebrew
-	```
-  * 图形化管理Homebrew安装的服务软件
-    ``` 
-    	brew tap jimbojsb/launchrocket
-		brew cask install launchrocket
-	```
-  * 使用brew cask安装macdown编辑器
-    ``` 
-      brew cask install macdown
-  ```
+  * 可视化homebrew安装工具<br>
+      `brew cask install cakebrew`
+  * 图形化管理Homebrew安装的服务软件<br>
+  	`brew tap jimbojsb/launchrocket`<br>
+	`brew cask install launchrocket`
+  * 使用brew cask安装macdown编辑器<br> 
+      `brew cask install macdown`
