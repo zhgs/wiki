@@ -8,6 +8,7 @@
 	* 流程图   Visio-->Omnigraffle 收费，网上有破解版
 	* 办公    office for mac 微软有提供office mac版，网上有破解版
 	* svn工具 Cornerstone 目前用到的最方便的
+	* 虚拟机 VirtualBox 开源免费
 ## homebrew及cask
 ### 参考
   * [参考安装方法](https://www.cnblogs.com/51fx/p/7004429.html)

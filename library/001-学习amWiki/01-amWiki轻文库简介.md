@@ -5,6 +5,7 @@ amWiki 是一款基于 Javascript 脚本语言、依赖 Atom 编辑器、使用 
 amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库系统！  
 
 [[view amWiki on Github](https://github.com/TevinLi/amWiki)]
+[[view amWiki](http://amwiki.org/doc/)]
 
 GitHub:  
 [![](https://img.shields.io/github/stars/TevinLi/amWiki.svg?style=social&label=Star)](https://github.com/TevinLi/amWiki "GitHub Stars")
