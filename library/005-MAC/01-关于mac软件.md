@@ -9,6 +9,9 @@
 	* 办公    office for mac 微软有提供office mac版，网上有破解版
 	* svn工具 Cornerstone 目前用到的最方便的
 	* 虚拟机 VirtualBox 开源免费
+### 其他
+   * [一个Java程序员从Thinkpad转到Macbook](https://blog.csdn.net/yczz/article/details/49993417)
+
 ## homebrew及cask
 ### 参考
   * [参考安装方法](https://www.cnblogs.com/51fx/p/7004429.html)
