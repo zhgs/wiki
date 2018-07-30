@@ -11,3 +11,7 @@
 
 	```hexo g -d```
 * 执行完成后会自动发布到blog的库存中，同时源文件备份要手动提交到另外一个github库存中
+* 发布blog 自动提交git时可能会失败或超时，原因是本地git缓存过小，修改/Users/zhouguangsheng/Documents/个人文档/github博客/hexo/.git/config文件，增加如下内容,即把提交缓存扩大到500m
+
+	```[http]```<br>
+	```postBuffer = 524288000```
