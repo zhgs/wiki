@@ -82,4 +82,8 @@ to read about a specific subcommand or concept.**
 ## 常用命令列表(持续完善)
 * git clone http://xxxxx.git myName
 * git remote -v 展示当前目录对应的远程仓库及地址
+* git status 显示当前仓库状态
+* git add -A 将本地仓库未暂存的文件全部暂存
+* git commit -a -m "注释" 将本地库存所有暂存的文件全部提交 -a:全部 -m:提交注释
+* git push 推送本地仓库到远程仓库
 
