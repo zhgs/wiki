@@ -85,5 +85,11 @@ to read about a specific subcommand or concept.**
 * git status 显示当前仓库状态
 * git add -A 将本地仓库未暂存的文件全部暂存
 * git commit -a -m "注释" 将本地库存所有暂存的文件全部提交 -a:全部 -m:提交注释
-* git push 推送本地仓库到远程仓库
+* git push 推送本地仓库到远程仓库 git push all --all:一次推送多个远程仓库
+* git remote add xx http://xxx.git 将本地分支绑定远程分支 xx为别名
+* git remote rm xx 删除和某个远程分支的绑定
+* git push -u github master 推送别名为github的远程分支
 
+
+## 本地仓库关联多个远程仓库
+参考其他博客：[https://www.cnblogs.com/hongdada/p/7573923.html](https://www.cnblogs.com/hongdada/p/7573923.html)
